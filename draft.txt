@@ -1,0 +1,20 @@
+I) 
+1) Go - backend
+2) Springbootstrap - client
+3) ExtJS - UI
+
+Backend:
+1) Read info from database (postgres);
+2) Publish rest resource(s) with list of data;
+
+Client:
+1) Provide REST API for ExtJS
+2) Create requests to backend
+
+UI:
+1) Show all data as a table.
+
+II)
+1) Dockerize 2 services.
+2) Create docker compose.
+3) Create openshift template.
